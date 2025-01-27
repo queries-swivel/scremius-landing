@@ -41,7 +41,7 @@ const LandingPage = () => {
           <h2 className="text-3xl font-bold mb-4">Our Vision</h2>
           <div className="text-purple-200 space-y-4">
             <p>
-              Inspired by Brian Eno's concept of "Scenius," we're building a space where genius emerges 
+              Inspired by Brian Eno&apos;s concept of &quot;Scenius,&quot; we&apos;re building a space where genius emerges 
               from scene and community rather than individuals.
             </p>
             <p>
