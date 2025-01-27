@@ -62,7 +62,7 @@ const LandingPage = () => {
         <div className="max-w-md mx-auto text-center mb-16">
           <h3 className="text-2xl font-bold mb-4">Join the MVP</h3>
           <iframe
-            src="https://tally.so/embed/nrJoJl"
+            src="https://tally.so/embed/nrJoJl?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
             width="100%"
             height="300"
             frameBorder="0"
